@@ -1,0 +1,11 @@
+C:\Users\Diogenes Polanco\Downloads\AutoMapperDemo\bin\Debug\netcoreapp2.2\AutoMapperDemo.deps.json
+C:\Users\Diogenes Polanco\Downloads\AutoMapperDemo\bin\Debug\netcoreapp2.2\AutoMapperDemo.runtimeconfig.json
+C:\Users\Diogenes Polanco\Downloads\AutoMapperDemo\bin\Debug\netcoreapp2.2\AutoMapperDemo.runtimeconfig.dev.json
+c:\Users\Diogenes Polanco\Downloads\AutoMapperDemo\bin\Debug\netcoreapp2.2\AutoMapperDemo.dll
+c:\Users\Diogenes Polanco\Downloads\AutoMapperDemo\bin\Debug\netcoreapp2.2\AutoMapperDemo.pdb
+c:\Users\Diogenes Polanco\Downloads\AutoMapperDemo\obj\Debug\netcoreapp2.2\AutoMapperDemo.csprojAssemblyReference.cache
+c:\Users\Diogenes Polanco\Downloads\AutoMapperDemo\obj\Debug\netcoreapp2.2\AutoMapperDemo.csproj.CoreCompileInputs.cache
+c:\Users\Diogenes Polanco\Downloads\AutoMapperDemo\obj\Debug\netcoreapp2.2\AutoMapperDemo.AssemblyInfoInputs.cache
+c:\Users\Diogenes Polanco\Downloads\AutoMapperDemo\obj\Debug\netcoreapp2.2\AutoMapperDemo.AssemblyInfo.cs
+c:\Users\Diogenes Polanco\Downloads\AutoMapperDemo\obj\Debug\netcoreapp2.2\AutoMapperDemo.dll
+c:\Users\Diogenes Polanco\Downloads\AutoMapperDemo\obj\Debug\netcoreapp2.2\AutoMapperDemo.pdb
