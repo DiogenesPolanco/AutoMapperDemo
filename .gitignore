@@ -32,7 +32,10 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
-bin/
-obj/
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
 # Visual Studio 2015
 .vs/
